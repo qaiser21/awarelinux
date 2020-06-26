@@ -1,0 +1,3 @@
+---
+ call:  'select * from bigeu_activity_data'
+ activity: 'select * from activity_data_ytd'
